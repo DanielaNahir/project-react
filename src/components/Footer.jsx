@@ -2,7 +2,7 @@ import "./Footer.css"
 
 function Footer() {
     return (
-        <header className="footer">
+        <footer className="footer">
             <a href="/" className="logo">LOGO</a>
 
             <nav className="links">
@@ -14,7 +14,7 @@ function Footer() {
 
             <p>© Nahir</p>
 
-        </header>
+        </footer>
     );
 }
 
