@@ -1,0 +1,28 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 3%;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.logo {
+    color: white;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.navBar a {
+    margin-left: 20px;
+    color: white;
+}
+
+
+.navBar a:hover {
+    color: #9921b1cb;
+}
