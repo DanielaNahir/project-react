@@ -5,11 +5,13 @@ import './App.css'
 import TaskList from './components/TaskList'
 import NavBar from './components/NavBar'
 import Footer from './components/Footer'
+import Background from './components/Background'
 
 function App() {
   return (
     <>
       <NavBar />
+      <Background />
       <Footer />
     </>
   )
